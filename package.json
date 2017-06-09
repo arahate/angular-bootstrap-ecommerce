@@ -1,0 +1,33 @@
+{
+  "name": "angularapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "grunt",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhijit Rahate",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.6.4",
+    "angular-tree-view": "^1.0.5",
+    "angular-ui-tree": "^2.22.5",
+    "angular2": "^2.0.0-beta.21",
+    "bootstrap": "^3.3.7",
+    "express": "^4.15.3",
+    "fontawesome": "^4.7.2",
+    "jquery": "^3.2.1"
+  },
+  "devDependencies": {
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-qunit": "^2.0.0",
+    "grunt-contrib-uglify": "^3.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-express": "^1.4.1",
+    "grunt-express-server": "^0.5.3",
+    "grunt-parallel": "^0.5.1"
+  }
+}

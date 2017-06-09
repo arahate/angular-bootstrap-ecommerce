@@ -1,0 +1,16 @@
+<html ng-app="helloworldapp">
+<head></head>
+    <body >
+        
+        <script src ="/angular/angular.js"></script>
+         <script src ="/js/app.js"></script>
+        <script src ="/js/controllers/HelloWorldController.js"></script>
+        <h1 ng-controller="HelloWorldController">{{banner.title}}</h1>
+        <div ng-controller="HelloWorldController">
+            {{banner.trainer}}  <br>
+            {{banner.date}}<br>
+            {{banner.time}} <br>
+        </div>
+
+        </body>
+</html>

@@ -1,0 +1,20 @@
+Raghunath Ganesan
+
+create folder angular app
+
+npm init
+
+npm install --save express
+
+Create File server.js 
+
+Write following code
+
+
+
+
+grunt-contrib-uglify
+grunt-contrib-qunit
+grunt-contrib-concat
+grunt-contrib-jshint
+grunt-contrib-watch
