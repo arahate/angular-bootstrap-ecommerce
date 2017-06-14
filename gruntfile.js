@@ -29,8 +29,6 @@ module.exports = function (grunt) {
 	});	
 
 	grunt.loadNpmTasks('grunt-nodemon');
-	grunt.loadNpmTasks('grunt-express-server');
-	grunt.loadNpmTasks('grunt-express');
 	grunt.registerTask('default', ['nodemon']);
 };
 

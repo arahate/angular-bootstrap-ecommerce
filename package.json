@@ -18,26 +18,22 @@
     "bootstrap": "^3.3.7",
     "express": "^4.15.3",
     "fontawesome": "^4.7.2",
-    "grunt-nodemon": "^0.4.2",
+    "grunt": "^1.0.1",
     "jquery": "^3.2.1",
     "method-override": "^2.3.9",
     "mongoose": "^4.10.4",
-    "mongoose-migration": "^0.2.0",
-    "morgan": "^1.8.2",
-    "nodemon": "^1.11.0"
+    "morgan": "^1.8.2"
   },
   "devDependencies": {
+    "grunt": "^1.0.1",
     "grunt-cli": "^1.2.0",
     "grunt-contrib-concat": "^1.0.1",
     "grunt-contrib-jshint": "^1.1.0",
     "grunt-contrib-qunit": "^2.0.0",
     "grunt-contrib-uglify": "^3.0.1",
     "grunt-contrib-watch": "^1.0.0",
-    "grunt-execute": "^0.2.2",
-    "grunt-express": "^1.4.1",
-    "grunt-express-server": "^0.5.3",
+    "grunt-nodemon": "^0.4.2",
     "grunt-parallel": "^0.5.1",
-    "grunt-run": "^0.7.0",
     "nodemon": "^1.11.0"
   }
 }
