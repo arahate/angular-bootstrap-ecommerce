@@ -28,27 +28,13 @@ app.use(express.static('node_modules'));
 app.use(express.static('theme'));
 app.use(express.static('api'));
 
-var userrouter = require('./../../app/js/api/routes/userrouter');
-app.use('/api',userrouter);
- // set the static files location /public/img will be /img for users
+var userrouter = require ('./../../app/js/api/routes/userrouter');
+var productrouter = require ('./../../app/js/api/routes/productrouter');
 
-// app.get('/user/:id', function (req, res, next) {
-//     var model = new repository.Repository('user');
-//     model.findById(req.params.id,function(err, model){
-//     if(err) res.send(err);
-//     res.json(model);
-//     });
-//   });
 
-// app.get('/user', function (req, res, next) {
-  
-//     var model = new repository.Repository('user');
-//     model.findById(req.params.id,function(err, model){
-//     if(err) res.send(err);
-//     res.json(model);
-//     });
-//   });
-
+ app.use('/api',userrouter);
+ app.use('/api',productrouter);
+ 
 app.listen(3000);
 console.log('Started listening at port 3000...');
 

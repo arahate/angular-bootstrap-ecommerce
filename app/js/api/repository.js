@@ -36,19 +36,22 @@ var repository = function (modelName) {
   self.Save = function (obj, cb) {
     var entity = new self.Model(obj);
     entity.save(function (err) {
-      cb(err);
+      cb(err,entity);
     });
   };
 
-  self.Update = function (entity, cb) {
-    self.Model.findById(entity.id, function (err, oldEntity) {
+  self.Update = function (obj, cb) {
+    var entity = new self.Model(obj);
+    var entitytoupdate = JSON.parse(JSON.stringify(entity)); //create depp copy of object.
+   
+    delete entitytoupdate._id;
+
+    self.Model.findOneAndUpdate(entity.id, entitytoupdate , {upsert: true, new: true, runValidators: true}, function (err, entitytoupdate) {
       if (err) {
-        cb(err);
-      } else {
-          oldEntity = entity;
-          oldEntity.save(cb);
-      }
-    })
+        cb(err); 
+      } 
+       cb(err,entitytoupdate);
+    });
   };
 
   self.Delete = function (entity, cb) {
