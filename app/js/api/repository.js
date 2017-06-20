@@ -7,7 +7,7 @@ var repository = function (modelName) {
 
   self.Model = require('./models/' + modelName );
 
-  self.findById = function (id, cb) {
+  self.FindById = function (id, cb) {
     self.Model.findById({
       _id : id
     }, function(err, entity) {
@@ -15,12 +15,17 @@ var repository = function (modelName) {
     });
   };
 
-  self.findOne = function (params, cb) {
-    self.Model.findOne(params, function (err, entity) {
-      if (!err && !entity) {
-        err = true;
-      }
+  self.Find = function (query, cb) {
+    self.Model.find(query, function(err, entity) {
+      cb(err, entity);
+    });
+  };
 
+  self.FindOne = function (params, cb) {
+    self.Model.findOne({'skucode':337163}, function (err, entity) {
+      if (err) {
+        cb(err);
+      }
       cb(err, entity);
     });
   };

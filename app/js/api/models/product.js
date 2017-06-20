@@ -5,9 +5,9 @@ var productschema = new mongoose.Schema(
     {
         "id": { "type": "string"  },
         "name": { "type": "string" },
-        "price": {"type": "string"  },
+        "price": {"type": "number"  },
         "image": {"type": "string"  },
-        "upcoming": {"type": "boolean"  },
+        "productviewtype": {"type": "string", "enum": ['upcoming', 'current', 'new'],  },
         "productdetails": {
                 "brand": {"type": "string"  },
                 "color": {
@@ -34,7 +34,7 @@ var productschema = new mongoose.Schema(
             
         },
         "skucode": {
-			"type": "string"
+			"type": "number"
         },
         "teaser": {
 			"type": "string"

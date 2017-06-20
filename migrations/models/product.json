@@ -1,24 +1,57 @@
 
   {
-    "_id": "5943ee7793ba9d23195b73ff",
-    "name": "ut occaecat ut",
-    "price": 9091.5374,
-    "skucode": 597089,
-    "teaser": "Adipisicing sunt est ea anim nostrud veniam ea proident nulla occaecat. Mollit mollit laboris pariatur nisi nostrud dolore cupidatat do. Magna sint nulla sint officia sunt dolore anim id sint culpa aute aliqua. Dolore velit elit quis nostrud reprehenderit enim aliquip est et anim quis dolore do.\r\n",
+    "_id": "5948cadf33f20fb40c0d1ddf",
+    "name": "fugiat consectetur mollit",
+    "price": 1954.549,
+    "productviewtype": "upcoming",
+    "image": "d.png",
     "productdetails": {
-      "brand": "est irure nisi",
+      "brand": "elit aliquip nisi",
       "color": {
         "items": [
+          "blue",
           "green",
-          "green",
-          "blue"
+          "brown"
         ]
       },
-      "description": "Adipisicing irure amet eiusmod proident ad deserunt duis tempor deserunt voluptate adipisicing enim. Exercitation laborum excepteur Lorem velit irure eiusmod ea. Nulla eiusmod commodo amet dolore reprehenderit sit Lorem cillum sunt duis. Nisi nostrud dolore elit proident labore eiusmod cupidatat. Nisi excepteur dolore Lorem reprehenderit irure aliquip aliqua et veniam ullamco.\r\nCupidatat deserunt in mollit deserunt ex sit minim amet minim voluptate sunt nostrud non. Elit ea in pariatur irure. Minim ut labore et cillum id ipsum adipisicing culpa. Laboris enim laboris dolore consectetur do consectetur ut sunt commodo pariatur Lorem sunt Lorem commodo. Dolor nisi officia excepteur mollit nulla cupidatat tempor adipisicing in anim tempor id proident.\r\nFugiat sint esse aliquip fugiat anim qui amet commodo dolor Lorem nostrud nostrud ullamco. Amet amet esse esse tempor sunt ex cupidatat. Ullamco nulla id qui do eiusmod nisi eu occaecat labore voluptate velit quis ad. Cupidatat do occaecat exercitation voluptate consequat. Quis sit aute non laboris aute aliquip duis dolor mollit culpa voluptate anim.\r\n",
+      "description": "Non sint velit velit reprehenderit. Nostrud proident ea eiusmod amet dolor magna officia. Qui incididunt est voluptate excepteur reprehenderit reprehenderit. Veniam est exercitation laboris culpa veniam nisi qui aute ipsum occaecat non aliquip. Enim id sint culpa mollit cillum enim adipisicing.\r\nConsequat et reprehenderit elit nostrud voluptate eiusmod ipsum. Do deserunt adipisicing veniam consequat cupidatat est. Commodo voluptate sint reprehenderit est eu eu aliqua amet commodo eu aute labore adipisicing do. Labore sint mollit Lorem proident aliquip fugiat esse cupidatat minim in consectetur.\r\nEiusmod id eu mollit exercitation esse cupidatat ullamco ipsum anim. Id enim culpa esse commodo esse amet nisi occaecat ullamco magna duis id officia. Pariatur et enim ut laboris reprehenderit nisi eiusmod incididunt laborum laboris deserunt exercitation.\r\n",
       "season": {
         "items": [
           "Winter Collections",
-          "Winter Collections",
+          "Summer Collection",
+          "Winter Collections"
+        ]
+      },
+      "size": {
+        "items": [
+          "XL",
+          "M"
+        ]
+      }
+    },
+    "skucode": 278584,
+    "teaser": "Esse mollit irure id elit labore consectetur ullamco nulla. Sint incididunt quis excepteur aliqua sunt ex nostrud elit sit dolore consectetur Lorem in. Sunt amet proident deserunt et laboris anim sunt cillum et magna pariatur anim pariatur. Sit excepteur nisi eiusmod sint aute ea labore sint officia in excepteur sit cupidatat eiusmod. Minim eu dolore pariatur et excepteur ipsum non ipsum dolore veniam laboris labore excepteur exercitation. Qui occaecat veniam aliqua aliquip ullamco ipsum Lorem sint mollit voluptate. Irure cupidatat ex duis magna esse voluptate incididunt qui.\r\n"
+  }
+  {
+    "_id": "5948cadff8028760344e1da8",
+    "name": "nisi dolor occaecat",
+    "price": 8111.0611,
+    "productviewtype": "upcoming",
+    "image": "t.png",
+    "productdetails": {
+      "brand": "nostrud adipisicing occaecat",
+      "color": {
+        "items": [
+          "brown",
+          "brown",
+          "blue"
+        ]
+      },
+      "description": "Mollit consequat commodo sint tempor laborum. Ipsum aliquip laboris officia deserunt ea enim amet ullamco est ullamco pariatur excepteur. Exercitation occaecat esse consectetur do qui eu ut aliquip.\r\nExercitation velit pariatur incididunt nostrud proident adipisicing adipisicing elit in mollit ullamco et. Tempor cupidatat occaecat tempor eiusmod. Sint cillum esse culpa anim pariatur ad incididunt sit. Do tempor nostrud minim reprehenderit ad anim tempor minim. Amet minim ea ut cupidatat in exercitation. Non elit quis id dolor sunt. Laborum irure deserunt non occaecat enim amet.\r\nMinim nulla do veniam esse in nostrud aute. Excepteur anim ipsum Lorem ad reprehenderit nisi. Cillum nostrud cillum sit culpa nostrud reprehenderit labore do est tempor fugiat duis proident velit. Veniam duis ad mollit ipsum mollit id.\r\n",
+      "season": {
+        "items": [
+          "All Seasons",
+          "Summer Collection",
           "Summer Collection"
         ]
       },
@@ -28,60 +61,64 @@
           "XXL"
         ]
       }
-    }
+    },
+    "skucode": 555347,
+    "teaser": "Mollit elit eiusmod veniam consequat magna ullamco pariatur ea quis. Velit aliquip sunt velit dolor sint magna exercitation duis. Anim excepteur pariatur in dolore elit irure tempor incididunt dolor sit velit incididunt ullamco fugiat. Aliqua velit consectetur irure Lorem ad cillum anim enim adipisicing tempor nisi ex velit ad.\r\n"
   }
   {
-    "_id": "5943ee779eb2001ad11a6689",
-    "name": "eiusmod deserunt consequat",
-    "price": 6680.8077,
-    "skucode": 357554,
-    "teaser": "Enim laboris cillum excepteur sit. Ex velit cillum do voluptate quis minim enim sunt enim dolor. Ullamco deserunt cillum consequat nisi quis. Ea ad laboris veniam non ea eu culpa eu ipsum reprehenderit dolore laborum. Nisi est nisi qui tempor dolor mollit.\r\n",
+    "_id": "5948cadfdaba4708244c932f",
+    "name": "irure pariatur Lorem",
+    "price": 7515.714,
+    "productviewtype": "current",
+    "image": "g.jpeg",
     "productdetails": {
-      "brand": "laboris officia dolore",
+      "brand": "fugiat irure mollit",
       "color": {
         "items": [
+          "blue",
           "green",
-          "green",
-          "green"
+          "brown"
         ]
       },
-      "description": "Ut est ex adipisicing anim elit proident. Consectetur eu nostrud consequat reprehenderit fugiat. Aliqua do sunt dolor ex qui sunt et exercitation ipsum ea tempor occaecat. Irure consequat pariatur velit proident. Reprehenderit non nisi magna cupidatat nulla amet enim labore elit sunt et. Quis esse sunt quis incididunt et dolor id in cillum. Consequat voluptate sit amet quis officia pariatur dolor ullamco elit in adipisicing incididunt.\r\nOccaecat eiusmod consequat duis labore adipisicing ullamco quis cupidatat. Nisi esse tempor non laboris deserunt laboris qui qui est laboris officia aliquip labore. Anim excepteur deserunt sit est duis elit anim pariatur irure irure adipisicing minim duis incididunt. Incididunt fugiat eiusmod enim eiusmod.\r\nTempor officia ipsum ex officia pariatur adipisicing aliqua qui aliqua deserunt Lorem elit in aliquip. Irure ut amet quis velit cillum dolor commodo ipsum voluptate fugiat. Aliqua ex proident dolore aute qui nisi. Id nisi anim aliqua ullamco amet ex veniam occaecat. Nulla labore cupidatat enim est consequat officia officia sint nostrud elit nisi. Do quis et incididunt eiusmod laborum dolore sit veniam velit officia.\r\n",
+      "description": "Id pariatur ex labore ullamco anim veniam incididunt cupidatat nostrud eu voluptate. Consectetur proident officia cupidatat aliquip ad. Deserunt dolore esse laboris elit.\r\nIrure pariatur tempor esse non adipisicing sunt aute ut magna velit. Anim tempor eiusmod commodo eiusmod est nisi. Occaecat reprehenderit exercitation velit Lorem laborum. Dolore sunt aute magna ex laborum labore reprehenderit commodo anim qui aliqua ex nisi ea. Aute voluptate laboris proident id veniam in sint minim quis.\r\nVelit aute proident fugiat laborum do amet sit aliquip anim. Aliquip fugiat veniam in mollit voluptate officia adipisicing aliqua est eiusmod qui. Dolor voluptate minim sit excepteur aute aute magna. Sint magna incididunt aute elit qui mollit in veniam eu minim proident enim. Consectetur fugiat ipsum in do commodo quis in est officia eiusmod. Amet nulla ad ea deserunt culpa ullamco nostrud nulla duis. Quis nostrud laboris deserunt adipisicing eiusmod enim officia et deserunt.\r\n",
       "season": {
         "items": [
-          "Summer Collection",
-          "All Seasons",
+          "Winter Collections",
+          "Winter Collections",
           "Winter Collections"
         ]
       },
       "size": {
         "items": [
-          "L",
-          "S"
+          "S",
+          "XL"
         ]
       }
-    }
+    },
+    "skucode": 337163,
+    "teaser": "Reprehenderit aute consectetur sint dolor excepteur incididunt cupidatat magna anim. Nisi reprehenderit aliquip aliquip culpa quis sunt proident excepteur ad et consectetur. Ut veniam laboris officia est exercitation.\r\n"
   }
   {
-    "_id": "5943ee77770f5cadace9e737",
-    "name": "Lorem cupidatat fugiat",
-    "price": 9527.0196,
-    "skucode": 181525,
-    "teaser": "Et commodo laboris adipisicing fugiat ipsum ex deserunt ut sit est est elit consequat laboris. Nostrud et quis dolor adipisicing consequat commodo laborum. Velit dolore id in eu velit est adipisicing non amet sunt enim. Cillum fugiat culpa exercitation esse exercitation duis quis exercitation consequat non.\r\n",
+    "_id": "5948cadf5bbe8bc1d8c78e43",
+    "name": "do ullamco excepteur",
+    "price": 7330.8304,
+    "productviewtype": "current",
+    "image": "h.jpeg",
     "productdetails": {
-      "brand": "dolore officia ex",
+      "brand": "non laborum id",
       "color": {
         "items": [
-          "brown",
           "blue",
+          "green",
           "blue"
         ]
       },
-      "description": "Ipsum proident officia anim Lorem commodo. Laboris commodo nulla commodo eiusmod eu qui. Sint deserunt nisi enim ipsum ut ea laboris. Aliqua Lorem fugiat anim dolore pariatur dolore elit aliquip ipsum. Cillum ad cillum non consectetur nulla magna minim excepteur sint. Esse occaecat pariatur aute ipsum est dolore exercitation cupidatat anim. Aliquip ipsum Lorem incididunt ea cillum ut laborum qui ut.\r\nLaborum aliqua nostrud incididunt amet incididunt qui ea sint dolor. Cupidatat nisi sunt voluptate voluptate. Aute commodo sit ex esse consequat nulla dolore voluptate exercitation tempor pariatur exercitation. Eu sit labore qui ut aliqua pariatur amet ex consequat eu. Incididunt sunt sint qui fugiat.\r\nExcepteur anim est dolore consequat ad exercitation aliqua ad reprehenderit reprehenderit quis. Ad Lorem aute sint deserunt est irure duis sunt aliqua do labore. Reprehenderit consequat incididunt ea aliquip voluptate. Dolor cupidatat id anim ullamco esse nisi ea occaecat reprehenderit ipsum ex. Consequat velit adipisicing excepteur ad.\r\n",
+      "description": "Eiusmod dolore pariatur reprehenderit sit reprehenderit tempor qui ut non reprehenderit. Commodo consequat dolor cupidatat ea cillum est occaecat enim minim officia. Est anim et ipsum ex aliqua Lorem et tempor. Quis proident sit aliquip pariatur eu proident nulla id quis fugiat amet laboris. Anim est nisi dolore cupidatat ullamco do eu excepteur excepteur in sunt mollit adipisicing. Culpa veniam proident in in id tempor et nulla minim occaecat esse in consectetur. Laboris ea laboris qui sint eu aliqua aute ea.\r\nNostrud adipisicing irure veniam ullamco laborum do eiusmod veniam aliqua anim voluptate. Nulla qui dolore nulla ea deserunt eu occaecat ullamco dolor nostrud esse ea adipisicing. Sit exercitation sint sit in sit officia veniam aliqua. Eiusmod voluptate id duis voluptate non id ea quis velit fugiat. Ut fugiat occaecat nisi aliquip exercitation aliqua veniam. Mollit aliqua in excepteur esse qui in occaecat commodo nulla dolor in nisi minim. Veniam ipsum culpa ullamco cupidatat laboris Lorem reprehenderit sit in dolore ut id.\r\nUllamco sit mollit consequat exercitation. Irure velit consectetur pariatur anim laborum incididunt enim do et. In non duis eu veniam amet exercitation reprehenderit et Lorem consequat velit dolor proident. Laborum voluptate consectetur aliqua consectetur ullamco veniam magna sit aliquip nisi cillum aute. Labore nostrud deserunt aliqua mollit voluptate aliqua exercitation irure tempor.\r\n",
       "season": {
         "items": [
-          "Summer Collection",
           "Winter Collections",
-          "Winter Collections"
+          "All Seasons",
+          "All Seasons"
         ]
       },
       "size": {
@@ -90,183 +127,30 @@
           "L"
         ]
       }
-    }
+    },
+    "skucode": 764930,
+    "teaser": "Do est reprehenderit proident laboris eu sunt eu ullamco aliqua. Adipisicing et consequat nostrud pariatur dolore elit nulla id. Tempor magna magna Lorem nostrud tempor aliqua ex sint consectetur commodo culpa sit labore cillum.\r\n"
   }
   {
-    "_id": "5943ee7762f0fa6badb39867",
-    "name": "magna dolore sunt",
-    "price": 9437.6324,
-    "skucode": 414895,
-    "teaser": "Magna ut proident sunt pariatur aute tempor ut amet anim Lorem. Consectetur qui laborum ad reprehenderit non sunt. Nulla consequat voluptate nostrud ea nulla. Qui consectetur non excepteur non qui sit voluptate ea ex veniam aliqua elit deserunt laboris. Occaecat dolore ut veniam consectetur. Exercitation ea ullamco dolor incididunt ea excepteur aliqua aliqua excepteur enim nulla. Cupidatat Lorem sit nostrud laborum labore ex eiusmod ea dolore.\r\n",
+    "_id": "5948cadfecfe8e8d2c2d7bed",
+    "name": "ex Lorem exercitation",
+    "price": 7831.6224,
+    "productviewtype": "new",
+    "image": "t.png",
     "productdetails": {
-      "brand": "consequat magna ut",
+      "brand": "amet irure ex",
       "color": {
         "items": [
+          "blue",
           "green",
-          "brown",
           "blue"
         ]
       },
-      "description": "Ad ut eu consequat ut sint voluptate. Irure pariatur voluptate laboris enim eiusmod. Deserunt do aliquip irure nostrud irure. Sit elit ullamco sit cupidatat exercitation laborum cillum laborum ut ad id veniam. Dolore tempor non eu non. Tempor consequat ullamco eu enim qui incididunt sit magna ut mollit aliqua ipsum anim. Pariatur mollit nostrud nostrud do tempor.\r\nTempor proident voluptate quis sint ipsum fugiat consequat anim commodo ullamco et proident velit est. Sunt dolore dolore proident id Lorem esse quis est sunt aliquip duis. Anim sunt velit fugiat veniam fugiat fugiat qui anim reprehenderit elit magna ex. Consectetur in sint aliqua dolor incididunt reprehenderit ex occaecat. Consectetur ullamco magna id sunt proident culpa proident Lorem eu qui magna nisi deserunt. Proident minim ut eiusmod ut ad pariatur veniam nostrud qui culpa magna fugiat cupidatat laboris.\r\nQuis pariatur sint cupidatat ex elit velit aliquip aliquip ex incididunt esse. Est labore eiusmod enim tempor velit voluptate consequat sit labore commodo. Cupidatat veniam laboris pariatur anim laboris culpa consectetur cillum.\r\n",
+      "description": "Proident deserunt velit veniam exercitation aliqua cillum anim reprehenderit ad veniam sit non pariatur mollit. Excepteur minim enim fugiat anim. Occaecat aliquip amet laboris velit voluptate anim nostrud ea Lorem qui excepteur qui exercitation.\r\nOccaecat ea esse labore nisi ea reprehenderit cupidatat voluptate velit non qui exercitation ea. Cillum ipsum elit ipsum ea adipisicing elit dolor nisi dolor. Laborum exercitation amet ut minim reprehenderit esse labore ea eu aute nisi cillum laborum. Nisi velit exercitation aute minim aliqua. Culpa irure ullamco duis in eu eiusmod proident tempor exercitation eiusmod. Voluptate Lorem elit culpa sunt.\r\nLabore commodo tempor Lorem non commodo eiusmod eiusmod sint. Cupidatat in in sint minim. Exercitation fugiat laborum cupidatat non incididunt sit consectetur ipsum. Ut enim enim ullamco fugiat reprehenderit ut esse.\r\n",
       "season": {
         "items": [
           "Summer Collection",
-          "All Seasons",
-          "All Seasons"
-        ]
-      },
-      "size": {
-        "items": [
-          "M",
-          "M"
-        ]
-      }
-    }
-  }
-  {
-    "_id": "5943ee777ba9886f07a77dbc",
-    "name": "aliqua aliquip aliqua",
-    "price": 927.4472,
-    "skucode": 411960,
-    "teaser": "Ut officia elit elit ex laborum aute ullamco dolore qui cillum fugiat. Ex et duis fugiat laboris culpa aute est. Consectetur cillum anim laboris esse culpa. Ullamco consequat minim ipsum et adipisicing excepteur qui. Dolore ex dolor dolor nisi qui qui excepteur qui culpa nostrud incididunt. Dolor ullamco veniam velit ipsum in voluptate. Ex aliquip exercitation incididunt aliqua.\r\n",
-    "productdetails": {
-      "brand": "nulla quis duis",
-      "color": {
-        "items": [
-          "brown",
-          "blue",
-          "blue"
-        ]
-      },
-      "description": "Occaecat sint amet minim duis culpa ullamco aliqua aliqua aliquip ad nulla. Occaecat nostrud reprehenderit excepteur labore exercitation ipsum adipisicing aute adipisicing mollit ut consectetur velit excepteur. Commodo elit velit id excepteur laboris aliquip laborum nisi cillum do.\r\nConsectetur occaecat incididunt duis deserunt aute nostrud elit in. Consectetur mollit sit consectetur reprehenderit ullamco tempor consectetur aliquip sunt eiusmod incididunt commodo nulla. Laborum ut adipisicing anim eiusmod ullamco elit est velit proident ea velit. Laboris sint commodo non dolore mollit. Amet ex exercitation dolore sunt labore nulla in pariatur dolore elit qui aliqua tempor.\r\nSint aute cupidatat sit deserunt. Ex ullamco dolor deserunt et. Occaecat cupidatat tempor id consectetur esse culpa.\r\n",
-      "season": {
-        "items": [
           "Winter Collections",
-          "All Seasons",
-          "Winter Collections"
-        ]
-      },
-      "size": {
-        "items": [
-          "M",
-          "XXL"
-        ]
-      }
-    }
-  }
-  {
-    "_id": "5943ee77b6353b5f3aa4696b",
-    "name": "aliquip et exercitation",
-    "price": 2994.1579,
-    "skucode": 793650,
-    "teaser": "In do excepteur in qui non. Dolore ad reprehenderit commodo esse sunt quis. Tempor quis occaecat elit velit incididunt. Cupidatat aliqua ut aliquip laborum occaecat nostrud sint duis ullamco. Cillum anim veniam incididunt Lorem sunt eu dolor enim. Lorem tempor magna est consequat duis laborum pariatur labore et non laborum tempor.\r\n",
-    "productdetails": {
-      "brand": "exercitation proident dolore",
-      "color": {
-        "items": [
-          "green",
-          "blue",
-          "green"
-        ]
-      },
-      "description": "Mollit aliquip aliquip labore id laborum proident excepteur. Occaecat laborum dolore adipisicing elit mollit aliquip magna anim culpa culpa proident. Sint deserunt fugiat id occaecat.\r\nLaboris cillum fugiat sit non consectetur et adipisicing do ex minim aute occaecat sit. Reprehenderit veniam laboris culpa eu. Non ut adipisicing elit nisi excepteur pariatur aute incididunt minim elit eiusmod commodo minim enim.\r\nNulla anim reprehenderit fugiat et aliquip nisi id qui. Nostrud labore tempor laborum et id nisi amet. Cillum Lorem anim elit labore exercitation do occaecat. Do officia culpa anim qui minim aliquip eu ea et anim consequat fugiat aute voluptate.\r\n",
-      "season": {
-        "items": [
-          "Summer Collection",
-          "Summer Collection",
-          "All Seasons"
-        ]
-      },
-      "size": {
-        "items": [
-          "M",
-          "L"
-        ]
-      }
-    }
-  }
-  {
-    "_id": "5943ee777f76b5ddb34d718a",
-    "name": "magna exercitation mollit",
-    "price": 4792.1285,
-    "skucode": 317682,
-    "teaser": "Ipsum duis ullamco id fugiat officia nulla in exercitation non. Pariatur laboris non mollit laboris mollit. Cupidatat ut nostrud sint proident reprehenderit quis Lorem deserunt. Deserunt laborum esse cupidatat voluptate enim. Labore laborum nulla officia ullamco irure sit consectetur laboris quis aliquip. Officia esse mollit eu id sunt culpa incididunt. Do aute velit proident veniam eiusmod cupidatat fugiat voluptate non.\r\n",
-    "productdetails": {
-      "brand": "eu incididunt cillum",
-      "color": {
-        "items": [
-          "brown",
-          "green",
-          "blue"
-        ]
-      },
-      "description": "Sint sit amet exercitation anim commodo nostrud ad id fugiat esse. Aliqua nostrud adipisicing magna reprehenderit non dolore aliquip veniam Lorem sunt dolore voluptate. Minim magna cupidatat commodo reprehenderit officia ut officia velit laborum commodo culpa. Id officia nisi Lorem mollit. Laborum dolore duis aliqua aute ut ad occaecat velit est voluptate. Non ipsum commodo magna velit id non occaecat dolore magna aliqua duis incididunt laborum. Ad pariatur labore ex cupidatat dolore nulla ipsum in culpa.\r\nCillum sit id pariatur excepteur consectetur non eu. Duis excepteur enim nostrud culpa labore. Aliquip culpa consectetur magna id ea commodo culpa nulla laboris amet amet consectetur adipisicing. Id est magna labore anim est do occaecat mollit nulla commodo fugiat. Aute ea et duis esse do consequat cupidatat voluptate excepteur enim cillum duis tempor elit. Et eu Lorem cupidatat magna magna ad dolor consectetur laborum minim. Aliqua fugiat voluptate ullamco aliqua sunt consectetur velit nulla anim.\r\nMagna aute occaecat eu deserunt id occaecat ex aliqua ullamco. Id non laborum incididunt exercitation officia. Veniam sunt esse velit reprehenderit sunt dolore velit deserunt ex cillum consectetur. Consequat ipsum et et occaecat in incididunt. Eu deserunt non ad quis laboris nulla duis sunt eiusmod ipsum consequat laborum. Eu tempor culpa in incididunt aliqua.\r\n",
-      "season": {
-        "items": [
-          "All Seasons",
-          "Summer Collection",
-          "Summer Collection"
-        ]
-      },
-      "size": {
-        "items": [
-          "XXL",
-          "S"
-        ]
-      }
-    }
-  }
-  {
-    "_id": "5943ee77221952c1882dcb7f",
-    "name": "incididunt sunt excepteur",
-    "price": 9151.6285,
-    "skucode": 114231,
-    "teaser": "Consequat duis veniam ea cillum labore minim. Consectetur fugiat aliqua laboris ullamco non do amet. Consectetur ipsum minim exercitation cillum in aliqua ea et proident magna excepteur adipisicing magna.\r\n",
-    "productdetails": {
-      "brand": "aliquip Lorem incididunt",
-      "color": {
-        "items": [
-          "brown",
-          "green",
-          "green"
-        ]
-      },
-      "description": "Consectetur adipisicing esse est ad excepteur enim amet duis labore eiusmod deserunt veniam. Ex aute laboris elit fugiat occaecat incididunt nostrud in nostrud ipsum. Ea deserunt sunt incididunt consectetur cupidatat ea occaecat ea aliqua laboris id qui. Magna reprehenderit deserunt do incididunt aliquip enim. Qui dolor ex consequat excepteur consequat ad aliquip ut est laborum irure laboris aliqua laboris. Et et occaecat est nostrud sit elit elit ullamco commodo laborum. Occaecat non nulla ad eiusmod voluptate sint in adipisicing sit elit exercitation veniam est voluptate.\r\nAdipisicing ipsum consectetur occaecat voluptate exercitation fugiat veniam fugiat consequat esse excepteur. Laboris fugiat est ex deserunt aliquip ea consequat id deserunt deserunt ad anim minim. Anim aliquip ad deserunt qui id est. Proident elit labore pariatur laboris sit voluptate pariatur qui eiusmod mollit duis proident est. Eu Lorem proident culpa exercitation occaecat est. Amet Lorem ullamco cupidatat Lorem.\r\nAd duis pariatur officia ea laboris aliqua. Laboris ullamco ad occaecat incididunt occaecat ad magna. Nostrud deserunt ullamco sint excepteur labore magna voluptate occaecat ipsum. Id ea nisi ipsum anim elit nisi reprehenderit id id cupidatat quis officia esse officia. Aliquip dolore occaecat in consequat mollit anim enim consectetur minim officia dolore. Do nulla aute officia ex in velit irure consectetur laboris sint minim amet minim.\r\n",
-      "season": {
-        "items": [
-          "Summer Collection",
-          "Summer Collection",
-          "All Seasons"
-        ]
-      },
-      "size": {
-        "items": [
-          "M",
-          "L"
-        ]
-      }
-    }
-  }
-  {
-    "_id": "5943ee77a6331a6f73e64197",
-    "name": "qui ad Lorem",
-    "price": 8770.4739,
-    "skucode": 228290,
-    "teaser": "Veniam nulla cillum sunt fugiat. Pariatur mollit qui ipsum enim. Cillum eiusmod eiusmod et do nostrud excepteur fugiat. Ex dolor tempor duis Lorem in tempor occaecat Lorem do esse veniam. Sunt tempor excepteur esse irure eiusmod ad dolore magna ex do nulla. Ad exercitation excepteur in elit incididunt magna elit nisi.\r\n",
-    "productdetails": {
-      "brand": "consequat ad enim",
-      "color": {
-        "items": [
-          "brown",
-          "brown",
-          "green"
-        ]
-      },
-      "description": "Dolor non labore elit nulla excepteur fugiat nostrud sit adipisicing proident consequat incididunt. Ad pariatur deserunt minim consectetur id sint officia non ullamco ex. Sint dolore deserunt tempor occaecat nulla aute est minim incididunt incididunt proident. Ipsum anim duis proident Lorem excepteur aute voluptate exercitation Lorem do. Dolor cillum mollit sit tempor sunt exercitation. Excepteur incididunt magna ea incididunt amet non consectetur voluptate non ea commodo nostrud Lorem nostrud.\r\nCupidatat labore occaecat nostrud anim ex pariatur elit proident enim minim ipsum et est. Aute deserunt eiusmod consectetur cupidatat laborum laborum ullamco enim aliqua et excepteur fugiat. Non in aliqua sunt ut incididunt mollit duis duis laboris qui sunt sit nostrud. Ex sunt ut enim labore elit voluptate et est sint irure aliquip elit amet. Est in proident ipsum ullamco officia do in excepteur. Anim fugiat veniam occaecat occaecat occaecat ut irure non minim velit aliquip proident ullamco sint.\r\nQui minim officia aliqua elit occaecat in mollit non magna incididunt ipsum. Reprehenderit laborum occaecat nulla aute dolore incididunt. Veniam esse occaecat ipsum ut officia laborum enim sit ipsum aute amet nostrud sit cupidatat.\r\n",
-      "season": {
-        "items": [
-          "All Seasons",
-          "Summer Collection",
           "Summer Collection"
         ]
       },
@@ -276,28 +160,96 @@
           "XXL"
         ]
       }
-    }
+    },
+    "skucode": 130193,
+    "teaser": "Occaecat amet velit deserunt elit culpa commodo officia. Sint reprehenderit officia duis voluptate aliqua Lorem enim. Nostrud cupidatat cillum id amet ea fugiat minim voluptate ullamco ex voluptate tempor. Cupidatat officia sint elit cillum labore sint adipisicing enim ad nulla laboris labore. Ullamco reprehenderit veniam officia in sunt dolor exercitation. Ullamco mollit amet nisi dolore fugiat sunt nulla elit id exercitation.\r\n"
   }
   {
-    "_id": "5943ee77cf476c78e02afab8",
-    "name": "cupidatat sunt voluptate",
-    "price": 7493.8254,
-    "skucode": 438005,
-    "teaser": "Deserunt ullamco qui cillum cupidatat nulla do adipisicing esse est fugiat incididunt. Qui esse enim pariatur ut Lorem minim elit consequat officia nisi. Voluptate ex ex enim exercitation amet consequat mollit sit elit. Magna do labore occaecat id magna est non anim consequat nulla irure qui est irure.\r\n",
+    "_id": "5948cadf8daa544e5e518c24",
+    "name": "tempor fugiat cupidatat",
+    "price": 7061.5161,
+    "productviewtype": "current",
+    "image": "g.jpeg",
     "productdetails": {
-      "brand": "aliqua et commodo",
+      "brand": "sint et do",
       "color": {
         "items": [
-          "blue",
           "green",
+          "blue",
           "blue"
         ]
       },
-      "description": "Esse ex irure sunt sit exercitation commodo elit. Mollit enim labore exercitation aliquip ipsum cupidatat aute nisi aute aute ipsum deserunt id dolor. Lorem ad dolor cupidatat elit tempor sunt est sit in voluptate eu deserunt. Anim commodo aliqua fugiat quis do mollit cillum laboris qui. Magna laborum non nisi sunt. Anim duis ut aliqua aliquip laborum.\r\nDo eu amet officia ut officia eiusmod magna dolore laboris in ullamco nostrud. Deserunt qui culpa irure ullamco velit. Dolore ut ut minim mollit excepteur. Ullamco nulla eiusmod cupidatat eu voluptate culpa ea laboris et nulla officia fugiat veniam culpa. Qui non excepteur nisi mollit in culpa reprehenderit. Aute irure qui irure quis occaecat et amet do.\r\nEsse irure quis est ad voluptate voluptate. Mollit laboris amet pariatur est ex aliqua id aliquip duis ad adipisicing. Aliquip proident labore culpa mollit tempor. Ea magna sint laboris culpa esse id. Aliqua occaecat aliquip dolor fugiat labore non. Deserunt nisi do enim enim sunt adipisicing nulla tempor aute ut excepteur.\r\n",
+      "description": "Dolor velit dolore minim duis ullamco do sint in adipisicing proident sint qui do. Nostrud incididunt elit officia ut et commodo cupidatat excepteur fugiat officia reprehenderit dolor. Veniam officia cillum aute ea tempor aliqua. Aliqua anim in ipsum id elit commodo id.\r\nAliquip ex commodo qui incididunt consequat cupidatat incididunt proident irure cillum tempor duis. Mollit anim do adipisicing do qui elit fugiat laborum ullamco consequat tempor exercitation tempor. Eu laboris in proident veniam occaecat velit.\r\nAdipisicing et sunt deserunt irure ea excepteur reprehenderit voluptate ea minim officia ad ad. Commodo irure incididunt eu ipsum. Quis veniam amet elit qui cillum. Quis excepteur proident voluptate ex occaecat in proident exercitation quis proident sit. Reprehenderit eiusmod eiusmod dolor proident anim exercitation commodo laborum ad consectetur laborum. Adipisicing in excepteur laborum ut officia cupidatat officia.\r\n",
       "season": {
         "items": [
-          "Summer Collection",
+          "Winter Collections",
+          "Winter Collections",
+          "All Seasons"
+        ]
+      },
+      "size": {
+        "items": [
+          "L",
+          "S"
+        ]
+      }
+    },
+    "skucode": 617029,
+    "teaser": "Mollit voluptate veniam sint fugiat fugiat fugiat aliquip. Lorem quis elit officia anim et est in officia irure deserunt officia elit. Esse cillum sit eiusmod non. Fugiat et reprehenderit Lorem sint. Nostrud dolor commodo non occaecat voluptate quis mollit. Sint mollit quis velit ex est officia anim ea fugiat sint sit occaecat sint.\r\n"
+  }
+  {
+    "_id": "5948cadf24fb9c0a03f42534",
+    "name": "do occaecat ad",
+    "price": 4408.8994,
+    "productviewtype": "upcoming",
+    "image": "l.png",
+    "productdetails": {
+      "brand": "pariatur nisi et",
+      "color": {
+        "items": [
+          "brown",
+          "green",
+          "brown"
+        ]
+      },
+      "description": "Sunt ipsum in anim occaecat dolore non proident officia occaecat veniam cupidatat laboris nisi enim. Sint dolore reprehenderit est excepteur enim enim ex aliqua aliquip laboris. Laboris elit non tempor laborum ipsum ea. Ex eiusmod fugiat laborum nulla dolor qui cupidatat deserunt laboris laboris fugiat. Deserunt aliquip eiusmod consectetur aute reprehenderit sint esse pariatur esse voluptate ut ex consectetur pariatur. Nostrud labore adipisicing dolore elit cupidatat laboris qui velit non amet. Pariatur et amet laboris elit id qui et consectetur laborum ipsum cupidatat aute cillum.\r\nDo cillum dolore dolore occaecat dolor et esse irure qui esse occaecat ad. Ex cillum nulla sint dolore aliquip nulla sunt sit cillum et cillum. Do cupidatat eiusmod esse consequat. Consequat et ex officia pariatur. Laborum magna ut officia cupidatat. Ullamco sunt cupidatat aute laborum Lorem eiusmod.\r\nTempor elit in Lorem veniam ea. Ex duis ad laboris culpa pariatur enim reprehenderit eu consectetur enim excepteur. Aliqua Lorem pariatur Lorem ullamco commodo tempor minim culpa aliquip esse commodo.\r\n",
+      "season": {
+        "items": [
           "All Seasons",
+          "Summer Collection",
+          "Winter Collections"
+        ]
+      },
+      "size": {
+        "items": [
+          "S",
+          "M"
+        ]
+      }
+    },
+    "skucode": 247971,
+    "teaser": "Proident Lorem incididunt tempor aliquip. Et nisi et aute id tempor. Pariatur excepteur aliquip culpa deserunt sunt. Duis minim dolore consequat deserunt commodo veniam. Ad ea aliqua exercitation duis anim ut ipsum enim est fugiat dolore sit. Aute voluptate ex dolore eu fugiat ad. Ex excepteur id fugiat anim enim enim voluptate anim.\r\n"
+  }
+  {
+    "_id": "5948cadfe8f0a3e52409d511",
+    "name": "duis cupidatat velit",
+    "price": 4111.5229,
+    "productviewtype": "current",
+    "image": "t.png",
+    "productdetails": {
+      "brand": "pariatur do irure",
+      "color": {
+        "items": [
+          "brown",
+          "brown",
+          "brown"
+        ]
+      },
+      "description": "Pariatur pariatur dolor sit laboris esse sint aliqua. Dolor enim exercitation voluptate dolore duis commodo consectetur ad excepteur excepteur labore qui. Irure mollit elit exercitation in ea ut consectetur ea fugiat aute anim culpa eu. Ad consequat nulla sint eiusmod aute. Irure voluptate ullamco tempor ex ex ad dolor aliqua proident ullamco nisi adipisicing consectetur. Excepteur deserunt et ea ipsum reprehenderit enim Lorem mollit exercitation commodo culpa consectetur. Nisi exercitation nostrud dolor laborum sunt minim voluptate.\r\nIrure ipsum fugiat dolore velit aliquip ex culpa nulla. Lorem in laboris voluptate do in ex laborum ut qui nostrud consequat nulla sint fugiat. Occaecat duis commodo laboris deserunt esse veniam magna sit pariatur qui et ea. Labore amet anim officia deserunt sint in adipisicing nostrud dolore ullamco sunt incididunt. Ullamco irure reprehenderit ad minim mollit dolore est. Enim elit labore pariatur nostrud sit. Commodo culpa sit in eu.\r\nIn labore labore nulla id do tempor. Officia velit qui anim enim quis aliqua. Ut elit exercitation occaecat sunt consequat cillum irure qui anim. In reprehenderit laborum eu cillum Lorem laboris amet dolor consequat voluptate. Dolore aute quis amet culpa sit consectetur incididunt consequat esse. Id laboris excepteur ex eu irure est est in.\r\n",
+      "season": {
+        "items": [
+          "Winter Collections",
+          "Summer Collection",
           "All Seasons"
         ]
       },
@@ -307,5 +259,436 @@
           "XL"
         ]
       }
-    }
+    },
+    "skucode": 168709,
+    "teaser": "Tempor dolor duis Lorem veniam ullamco aliquip. Id sit irure labore dolore dolor reprehenderit. Laboris velit quis ad qui culpa id magna eiusmod magna enim aute. Aute ut elit ea excepteur excepteur ad dolore enim. Enim duis sint in do culpa officia tempor. Eu in ut labore magna cillum veniam laborum duis aliquip ad quis amet magna. Ad culpa Lorem ipsum do fugiat adipisicing est commodo dolor consectetur sint.\r\n"
+  }
+  {
+    "_id": "5948cadfc1a165e3497d2b42",
+    "name": "incididunt fugiat irure",
+    "price": 8974.8646,
+    "productviewtype": "current",
+    "image": "e.jpeg",
+    "productdetails": {
+      "brand": "excepteur nostrud duis",
+      "color": {
+        "items": [
+          "brown",
+          "green",
+          "green"
+        ]
+      },
+      "description": "Culpa aliqua proident nulla minim incididunt in. Ipsum incididunt ut sit sunt laboris ex exercitation do esse. Elit culpa quis aliquip quis. Nulla laboris do enim non. Minim cillum officia aute anim ex ipsum culpa exercitation nisi minim amet. Aute in labore commodo veniam.\r\nDo labore anim elit Lorem et ea dolor magna et. Aute amet et eiusmod est non adipisicing exercitation dolore. Ullamco laboris mollit nostrud sunt incididunt ex cupidatat sunt in ad incididunt. Exercitation reprehenderit cupidatat est cupidatat ipsum ullamco id eu aliquip et non. Eiusmod pariatur exercitation deserunt eu consectetur sint aute ipsum id nisi id.\r\nElit dolore voluptate do eiusmod esse aliqua proident veniam incididunt. Enim mollit pariatur aliquip magna. Sit elit anim aliqua laboris qui nisi cupidatat laboris consequat duis culpa duis voluptate nostrud. Ad cupidatat incididunt nulla cupidatat commodo laborum consectetur commodo elit. Dolor do duis ut ea esse eiusmod culpa id sunt eu aliquip.\r\n",
+      "season": {
+        "items": [
+          "Winter Collections",
+          "All Seasons",
+          "All Seasons"
+        ]
+      },
+      "size": {
+        "items": [
+          "S",
+          "M"
+        ]
+      }
+    },
+    "skucode": 914055,
+    "teaser": "Sit proident do mollit est eu adipisicing sunt sit veniam. Irure qui laboris nisi excepteur ut nulla nostrud eu commodo cillum. Proident laborum magna nostrud eu amet ad nisi.\r\n"
+  }
+  {
+    "_id": "5948cadf654295df95e1d097",
+    "name": "occaecat eu exercitation",
+    "price": 3014.8586,
+    "productviewtype": "current",
+    "image": "c.png",
+    "productdetails": {
+      "brand": "ullamco eiusmod labore",
+      "color": {
+        "items": [
+          "green",
+          "brown",
+          "brown"
+        ]
+      },
+      "description": "Ut labore dolor mollit dolor duis eiusmod nostrud est consequat veniam Lorem adipisicing id. Esse nisi commodo nostrud commodo amet. Ipsum culpa sint laborum ut do id et do tempor culpa magna nostrud enim in. Lorem ut Lorem enim Lorem eiusmod commodo. Occaecat deserunt est commodo anim voluptate est elit elit occaecat aliquip proident. Quis tempor ad anim amet cupidatat et dolor cillum laborum qui voluptate ut exercitation.\r\nIrure duis tempor exercitation cupidatat laborum proident ea. Consectetur ea eu est sunt aliqua. Amet ipsum esse nisi irure Lorem exercitation proident velit mollit veniam voluptate eu exercitation. Aliquip consectetur eu enim ut sit cillum excepteur dolor. Ex eiusmod non reprehenderit proident. Consectetur minim sint ipsum irure sint anim nulla non. Ullamco excepteur consequat veniam deserunt culpa ea proident velit occaecat laboris commodo est veniam Lorem.\r\nUt in duis occaecat duis dolore fugiat nisi ex anim cupidatat. Esse incididunt elit amet anim sunt non minim enim. Fugiat occaecat culpa eiusmod minim sit officia esse sint magna tempor consequat aliqua ipsum consectetur. Aliqua reprehenderit commodo magna do tempor et anim magna voluptate mollit fugiat duis. Minim consectetur tempor labore excepteur esse occaecat consequat magna esse ex aliquip adipisicing duis qui. Ut ipsum tempor in aliqua enim fugiat commodo in veniam nulla eiusmod ea aliqua id. Ullamco nisi et consectetur anim id tempor aute in irure.\r\n",
+      "season": {
+        "items": [
+          "Summer Collection",
+          "All Seasons",
+          "Winter Collections"
+        ]
+      },
+      "size": {
+        "items": [
+          "S",
+          "M"
+        ]
+      }
+    },
+    "skucode": 228411,
+    "teaser": "Aute non quis consequat anim reprehenderit Lorem. Eu ut in esse ullamco eu aliqua ad commodo fugiat. Nisi veniam magna commodo qui occaecat dolore labore magna pariatur excepteur incididunt sint. Dolor laborum aliqua ut sint fugiat quis consectetur eu ipsum duis proident. Pariatur fugiat pariatur incididunt qui ea ullamco officia occaecat. Qui elit aute est sunt dolor duis nostrud fugiat.\r\n"
+  }
+  {
+    "_id": "5948cadf1821337d65474182",
+    "name": "nisi esse cupidatat",
+    "price": 4291.5318,
+    "productviewtype": "current",
+    "image": "g.jpeg",
+    "productdetails": {
+      "brand": "irure consequat enim",
+      "color": {
+        "items": [
+          "green",
+          "blue",
+          "brown"
+        ]
+      },
+      "description": "Sint pariatur pariatur eiusmod ex. Anim sit ullamco officia culpa aute proident incididunt adipisicing. Occaecat ex minim ut et voluptate occaecat irure labore id consequat anim incididunt qui.\r\nNisi et eu anim deserunt esse culpa nostrud proident sit eiusmod. Velit laboris minim sint consequat sunt sint aute. Consectetur mollit ad dolor irure adipisicing voluptate reprehenderit reprehenderit. Pariatur id laborum incididunt sit fugiat. Eiusmod Lorem duis veniam pariatur voluptate eu cillum nostrud do minim fugiat.\r\nSit ut incididunt exercitation cupidatat cillum nostrud reprehenderit enim fugiat in deserunt qui. Cupidatat ex nulla nostrud aliqua eu deserunt dolore ex incididunt ex pariatur adipisicing. Nostrud pariatur laboris nisi proident laboris adipisicing ipsum amet magna veniam laboris.\r\n",
+      "season": {
+        "items": [
+          "Summer Collection",
+          "Summer Collection",
+          "Winter Collections"
+        ]
+      },
+      "size": {
+        "items": [
+          "S",
+          "XL"
+        ]
+      }
+    },
+    "skucode": 278969,
+    "teaser": "Proident eiusmod fugiat magna anim magna consectetur adipisicing. Non incididunt aliqua officia id incididunt ea dolore amet labore dolor aliqua. Aute esse consectetur labore pariatur nisi non pariatur voluptate sit incididunt culpa aute. Amet labore ullamco anim incididunt velit occaecat in. Veniam reprehenderit fugiat sit nostrud laboris. Irure do magna cillum excepteur est occaecat eiusmod ad aliqua culpa enim magna. Est sint reprehenderit qui nostrud irure ea laborum do quis anim ullamco.\r\n"
+  }
+  {
+    "_id": "5948cadf055320df18acae9f",
+    "name": "est irure eu",
+    "price": 6378.3824,
+    "productviewtype": "current",
+    "image": "b.jpeg",
+    "productdetails": {
+      "brand": "Lorem excepteur incididunt",
+      "color": {
+        "items": [
+          "green",
+          "green",
+          "green"
+        ]
+      },
+      "description": "Tempor aliqua velit ad adipisicing laboris do ipsum aliquip reprehenderit proident tempor veniam ea. Magna sit mollit sint voluptate sint et voluptate anim consequat quis labore sit dolore. Adipisicing cupidatat eiusmod fugiat proident nostrud qui elit labore excepteur. Culpa pariatur enim nisi adipisicing do reprehenderit anim.\r\nNostrud ea incididunt reprehenderit esse elit. Ullamco deserunt laboris commodo esse eiusmod mollit in sunt aliquip velit. Pariatur do ea minim proident sunt aliquip. Labore nulla Lorem veniam quis sit amet est velit laborum ex. Laboris consequat nostrud sit aliqua consequat esse excepteur adipisicing enim aute. Adipisicing sit qui do officia culpa commodo nostrud aliqua duis ullamco id.\r\nCommodo irure id Lorem nulla anim est enim Lorem sunt eiusmod enim reprehenderit dolore. Mollit et voluptate do sunt laboris officia do aliqua sunt excepteur. Sit ex in ad elit labore id. Ipsum et culpa laborum cillum voluptate irure eiusmod nostrud amet labore elit qui ad nostrud. Amet labore dolor ad duis eu exercitation non culpa amet dolor sit mollit. Eiusmod adipisicing irure in et dolore aliqua occaecat labore irure nulla officia cillum sint enim.\r\n",
+      "season": {
+        "items": [
+          "Winter Collections",
+          "Winter Collections",
+          "Summer Collection"
+        ]
+      },
+      "size": {
+        "items": [
+          "M",
+          "M"
+        ]
+      }
+    },
+    "skucode": 125867,
+    "teaser": "Sint ullamco elit ea proident aute laboris anim laboris nisi ex magna culpa. Nulla fugiat in cupidatat nisi commodo reprehenderit nostrud elit deserunt ut aliquip incididunt tempor. Sit fugiat sint occaecat nisi id ut in consectetur elit mollit. Laborum sint proident veniam sit incididunt fugiat dolore aute et velit. Commodo anim anim et et. Officia laborum pariatur magna ut reprehenderit.\r\n"
+  }
+  {
+    "_id": "5948cadf833d607317f45176",
+    "name": "esse commodo velit",
+    "price": 1000.5423,
+    "productviewtype": "new",
+    "image": "e.jpeg",
+    "productdetails": {
+      "brand": "pariatur nostrud laboris",
+      "color": {
+        "items": [
+          "blue",
+          "green",
+          "green"
+        ]
+      },
+      "description": "Quis deserunt reprehenderit do excepteur eiusmod culpa nostrud. Ad sint anim in Lorem laborum reprehenderit Lorem. Anim ex adipisicing velit ut sit pariatur officia culpa voluptate aliqua velit ea. Duis sit incididunt cupidatat quis quis mollit excepteur sunt.\r\nAdipisicing est fugiat ad ut dolor sint officia nulla ad elit. Consequat magna ad amet esse. Quis irure do et amet et.\r\nDo irure sit elit et mollit exercitation anim ipsum incididunt quis nostrud veniam. Ea nostrud in adipisicing ullamco in esse pariatur. Amet ea aute mollit sunt eu aliqua exercitation in et laboris consectetur.\r\n",
+      "season": {
+        "items": [
+          "All Seasons",
+          "Winter Collections",
+          "Summer Collection"
+        ]
+      },
+      "size": {
+        "items": [
+          "L",
+          "M"
+        ]
+      }
+    },
+    "skucode": 783667,
+    "teaser": "Excepteur cillum ex aliqua enim est eu sint commodo exercitation pariatur. Cillum nostrud esse adipisicing pariatur officia enim consequat nisi velit dolore fugiat duis nostrud consequat. Esse pariatur minim pariatur velit id reprehenderit do officia voluptate ad. Cillum labore fugiat ullamco consequat ullamco.\r\n"
+  }
+  {
+    "_id": "5948cadff62cb7995eb840cf",
+    "name": "ullamco adipisicing velit",
+    "price": 2383.9589,
+    "productviewtype": "upcoming",
+    "image": "l.png",
+    "productdetails": {
+      "brand": "non amet reprehenderit",
+      "color": {
+        "items": [
+          "brown",
+          "green",
+          "blue"
+        ]
+      },
+      "description": "Cillum anim eiusmod voluptate proident irure nulla velit anim officia id laboris tempor anim consequat. Qui esse do elit exercitation ad ex. Mollit reprehenderit quis ad amet dolore in dolor labore ad voluptate ut Lorem officia. Id pariatur excepteur tempor irure id exercitation. Esse id cupidatat proident anim amet est. Commodo sit enim anim aliqua quis reprehenderit irure aute amet sit culpa est occaecat. Reprehenderit aute nisi veniam tempor eu nulla eiusmod sit sit id labore.\r\nSit deserunt et ullamco pariatur adipisicing culpa duis ipsum eiusmod. Ad cillum commodo et tempor exercitation ullamco irure amet anim. Duis Lorem laboris nulla laborum enim dolor eu voluptate officia. Sint veniam ipsum proident ullamco qui. Irure non cillum excepteur esse culpa id id ex fugiat.\r\nExercitation tempor laborum veniam excepteur mollit amet nulla labore elit deserunt labore. Id sunt ut laboris proident anim Lorem veniam magna ipsum voluptate veniam. In anim pariatur elit id esse.\r\n",
+      "season": {
+        "items": [
+          "Winter Collections",
+          "Summer Collection",
+          "All Seasons"
+        ]
+      },
+      "size": {
+        "items": [
+          "XXL",
+          "XL"
+        ]
+      }
+    },
+    "skucode": 514797,
+    "teaser": "Irure consectetur mollit ullamco exercitation Lorem aute dolore sunt dolore commodo excepteur nisi veniam. Fugiat voluptate laborum occaecat cupidatat veniam ut aute tempor cupidatat dolore non minim. Esse in irure dolore magna deserunt est. Nulla nulla deserunt adipisicing qui cillum excepteur ea sunt duis.\r\n"
+  }
+  {
+    "_id": "5948cadfdfd798920d2037e1",
+    "name": "ex esse magna",
+    "price": 7853.9199,
+    "productviewtype": "upcoming",
+    "image": "q.jpeg",
+    "productdetails": {
+      "brand": "eiusmod ex sint",
+      "color": {
+        "items": [
+          "brown",
+          "blue",
+          "green"
+        ]
+      },
+      "description": "Labore qui eu dolor Lorem incididunt aliquip esse. Adipisicing qui culpa cillum occaecat est non dolor. Voluptate aute in dolor minim non amet deserunt in. Deserunt nisi consectetur nulla culpa consequat cupidatat minim qui officia aliquip et. Dolore et officia sunt et consequat consectetur officia.\r\nLaboris sint Lorem sunt irure laborum non. Nulla voluptate irure Lorem excepteur do esse duis. Consectetur est enim minim laboris laboris sit sint magna tempor veniam aute eu. Incididunt ipsum minim nisi deserunt ut ex. Non ullamco excepteur do sit.\r\nAliquip quis cillum laboris culpa minim aliqua consectetur voluptate non cupidatat sunt. Nostrud minim magna est Lorem sint voluptate consectetur sint officia. Aute et et esse exercitation id dolore pariatur.\r\n",
+      "season": {
+        "items": [
+          "All Seasons",
+          "All Seasons",
+          "All Seasons"
+        ]
+      },
+      "size": {
+        "items": [
+          "L",
+          "M"
+        ]
+      }
+    },
+    "skucode": 353479,
+    "teaser": "Cupidatat aliqua est eiusmod eiusmod aute enim dolor reprehenderit excepteur eiusmod incididunt laboris dolore do. Laborum ex esse enim et irure. Esse reprehenderit ipsum occaecat veniam amet eu commodo excepteur culpa culpa cillum.\r\n"
+  }
+  {
+    "_id": "5948cadfd70aabbb54cd65d3",
+    "name": "adipisicing velit ullamco",
+    "price": 5945.2777,
+    "productviewtype": "upcoming",
+    "image": "i.jpeg",
+    "productdetails": {
+      "brand": "qui sunt reprehenderit",
+      "color": {
+        "items": [
+          "blue",
+          "brown",
+          "brown"
+        ]
+      },
+      "description": "Qui nostrud commodo ex minim magna velit ea aute. Sint in ex mollit mollit occaecat nostrud non magna adipisicing laboris dolore aliquip reprehenderit. Deserunt consectetur laboris officia duis reprehenderit adipisicing proident non deserunt. Ea culpa proident in amet minim anim nulla sunt fugiat id laborum. Irure fugiat nostrud adipisicing incididunt labore fugiat. Cupidatat cillum elit enim nulla aute ullamco mollit ipsum nostrud est aute excepteur reprehenderit sit. Fugiat aliqua anim enim aute.\r\nAdipisicing quis amet sint proident tempor excepteur voluptate deserunt. Eiusmod laborum velit sit ullamco eu laborum dolor fugiat deserunt eiusmod ipsum pariatur. In non aute velit adipisicing. Adipisicing dolore est deserunt ea ullamco do sint velit occaecat ut. Aute magna tempor ipsum sit aliqua consequat incididunt ex dolore sunt.\r\nSit irure eiusmod esse mollit officia sunt eu consequat adipisicing nisi ea. Id ea nostrud adipisicing non. Dolor proident cupidatat irure fugiat excepteur eiusmod eu veniam fugiat et culpa occaecat minim id. Irure ad consectetur nisi ea proident quis nulla quis nisi sint. Quis duis laboris officia do nostrud voluptate. Aute non reprehenderit aliquip anim adipisicing.\r\n",
+      "season": {
+        "items": [
+          "Winter Collections",
+          "Winter Collections",
+          "Winter Collections"
+        ]
+      },
+      "size": {
+        "items": [
+          "XXL",
+          "XXL"
+        ]
+      }
+    },
+    "skucode": 996390,
+    "teaser": "Labore deserunt quis magna Lorem amet magna do aliquip laborum incididunt. Laboris exercitation sit cillum ut tempor deserunt magna cillum ex veniam aliqua magna adipisicing. Ullamco adipisicing minim excepteur voluptate duis tempor aute elit pariatur incididunt dolore. Nulla laborum sint Lorem sint sit. Anim commodo esse irure sunt cillum non velit Lorem exercitation ut. Et labore excepteur fugiat ex et qui exercitation proident in. Incididunt deserunt cupidatat nulla ea do incididunt laboris eu ipsum consequat ea.\r\n"
+  }
+  {
+    "_id": "5948cadf93cee92d4df6da8c",
+    "name": "fugiat veniam anim",
+    "price": 5115.1809,
+    "productviewtype": "current",
+    "image": "q.jpeg",
+    "productdetails": {
+      "brand": "consectetur nulla ipsum",
+      "color": {
+        "items": [
+          "blue",
+          "green",
+          "blue"
+        ]
+      },
+      "description": "Irure labore et consequat laborum. Dolor mollit deserunt irure ex consectetur. Officia officia enim voluptate pariatur tempor do irure nulla.\r\nEst fugiat magna enim sunt voluptate duis dolore qui dolor duis eu labore. Consectetur deserunt quis cillum commodo commodo. Aute Lorem consequat consequat velit sit aliqua sit nostrud excepteur. Ipsum amet enim veniam laboris sit.\r\nDuis est nostrud minim officia do nostrud veniam exercitation nostrud. Dolore laborum occaecat sint labore in. Minim magna laborum proident consequat et deserunt ex consectetur sit id ullamco eiusmod voluptate magna. Ex esse eu dolor irure.\r\n",
+      "season": {
+        "items": [
+          "All Seasons",
+          "All Seasons",
+          "Winter Collections"
+        ]
+      },
+      "size": {
+        "items": [
+          "XL",
+          "L"
+        ]
+      }
+    },
+    "skucode": 651297,
+    "teaser": "Quis dolore ea duis nulla dolore esse consectetur sit. Et et sint quis laborum voluptate. Quis cupidatat magna sunt aute.\r\n"
+  }
+  {
+    "_id": "5948cadf980704d73d7bfb77",
+    "name": "cillum voluptate reprehenderit",
+    "price": 1110.0169,
+    "productviewtype": "upcoming",
+    "image": "f.jpeg",
+    "productdetails": {
+      "brand": "commodo exercitation reprehenderit",
+      "color": {
+        "items": [
+          "blue",
+          "green",
+          "green"
+        ]
+      },
+      "description": "Reprehenderit elit duis ullamco eiusmod nostrud nostrud exercitation esse nostrud occaecat. Cillum exercitation quis sit aliqua voluptate proident occaecat cupidatat anim. Adipisicing reprehenderit laboris minim cupidatat culpa sit et. Culpa irure excepteur ipsum labore adipisicing adipisicing aute nulla adipisicing ad ex voluptate ullamco.\r\nIncididunt aute pariatur tempor sit laborum magna enim dolore laboris non laboris velit fugiat. Et amet tempor do deserunt ea incididunt incididunt id nulla irure id quis. Nostrud pariatur do nisi deserunt enim do.\r\nMollit est dolore adipisicing esse eiusmod. Dolore consequat incididunt adipisicing in duis proident pariatur cupidatat aute eiusmod esse nostrud amet dolore. Dolore non do dolor anim ipsum aliqua. Veniam labore veniam duis et dolore qui tempor laborum nostrud occaecat nulla deserunt ut. Ipsum ipsum laborum culpa do nostrud eiusmod duis adipisicing in. Est culpa commodo velit fugiat deserunt occaecat dolore nostrud consectetur. Tempor ullamco veniam proident ex aliqua fugiat sint qui exercitation qui sunt in.\r\n",
+      "season": {
+        "items": [
+          "Winter Collections",
+          "Summer Collection",
+          "All Seasons"
+        ]
+      },
+      "size": {
+        "items": [
+          "L",
+          "XL"
+        ]
+      }
+    },
+    "skucode": 561358,
+    "teaser": "Eu laboris qui non irure ex sunt excepteur fugiat aute. Eiusmod dolore quis consectetur et exercitation laborum. Enim ut incididunt proident sunt in et magna dolor enim exercitation minim eu dolor. Lorem non Lorem ad mollit sint nisi commodo cupidatat eu. Incididunt elit commodo nulla ex irure cillum adipisicing laboris cillum cillum tempor pariatur ea. Ullamco est ex consequat sunt.\r\n"
+  }
+  {
+    "_id": "5948cadf21be03e94b9fb079",
+    "name": "elit eu in",
+    "price": 8148.2031,
+    "productviewtype": "upcoming",
+    "image": "h.jpeg",
+    "productdetails": {
+      "brand": "ex eu id",
+      "color": {
+        "items": [
+          "blue",
+          "brown",
+          "green"
+        ]
+      },
+      "description": "Eiusmod ad voluptate occaecat reprehenderit aute id mollit nulla sunt ut mollit eiusmod adipisicing. Nisi amet dolor enim laborum. Aliqua magna nisi esse velit nostrud. Proident commodo dolor esse aute eu. Incididunt consectetur aliqua do officia tempor elit excepteur.\r\nEt ad aliqua incididunt ipsum consequat Lorem id amet aute aliquip dolore qui reprehenderit. Dolore incididunt Lorem ex ea. Ea et non excepteur ea cillum ut occaecat. Deserunt amet veniam fugiat ex nisi consequat aute sint fugiat aliqua Lorem proident.\r\nEiusmod do exercitation incididunt Lorem ipsum nisi minim et eiusmod reprehenderit. Voluptate do consequat velit consectetur esse reprehenderit ad velit eu anim aliqua. Aliquip ipsum aute veniam deserunt fugiat fugiat dolor commodo in enim adipisicing ad. Aliquip labore culpa commodo fugiat nostrud adipisicing cillum aute sit duis voluptate veniam.\r\n",
+      "season": {
+        "items": [
+          "Summer Collection",
+          "Summer Collection",
+          "All Seasons"
+        ]
+      },
+      "size": {
+        "items": [
+          "M",
+          "M"
+        ]
+      }
+    },
+    "skucode": 612686,
+    "teaser": "Consectetur ea consequat duis eu nulla id dolor aute minim non excepteur velit. Amet culpa mollit commodo in in nulla in in elit incididunt ex proident. Exercitation non duis Lorem in est velit nulla consequat. Est ad incididunt excepteur velit qui pariatur ipsum. Elit ut laborum esse laboris aliqua officia ea proident duis est officia nulla. Deserunt Lorem aliquip non ad ad cillum labore ea.\r\n"
+  }
+  {
+    "_id": "5948cadf5cc9bb48d03f90b9",
+    "name": "non deserunt exercitation",
+    "price": 5308.9151,
+    "productviewtype": "upcoming",
+    "image": "d.png",
+    "productdetails": {
+      "brand": "do proident voluptate",
+      "color": {
+        "items": [
+          "blue",
+          "blue",
+          "green"
+        ]
+      },
+      "description": "Laborum id enim ut velit quis cupidatat fugiat cillum excepteur. Enim ut et pariatur duis et pariatur commodo laborum eiusmod sunt esse. Lorem do officia labore aliquip est est magna aute cillum. Laboris enim Lorem ullamco cillum sint consequat ut qui duis deserunt ut. Ipsum culpa aute aute Lorem in officia ex tempor minim quis ut proident. Velit nisi officia officia eu dolor magna consectetur exercitation do velit duis. Ad reprehenderit sunt ea sint in ipsum ipsum ad incididunt veniam eu nisi.\r\nAmet eiusmod ex sunt magna officia exercitation nostrud commodo irure esse. Tempor Lorem cupidatat nulla amet cupidatat non ipsum elit exercitation. Mollit labore sit laborum elit sint reprehenderit id anim ex.\r\nAnim consectetur in velit est fugiat proident. Culpa nisi irure exercitation exercitation aliquip sit Lorem qui velit minim mollit aute excepteur. Exercitation deserunt dolor commodo proident eiusmod reprehenderit velit sint exercitation.\r\n",
+      "season": {
+        "items": [
+          "All Seasons",
+          "All Seasons",
+          "Summer Collection"
+        ]
+      },
+      "size": {
+        "items": [
+          "L",
+          "XL"
+        ]
+      }
+    },
+    "skucode": 101787,
+    "teaser": "Dolor consequat incididunt consequat consectetur anim exercitation ex magna incididunt aute. Aliquip exercitation consequat aute ex duis laborum ex ut eiusmod mollit duis est. Amet adipisicing anim voluptate sint enim incididunt dolor Lorem adipisicing ea non. Fugiat elit laborum mollit enim.\r\n"
+  }
+  {
+    "_id": "5948cadf1469cffa13485676",
+    "name": "minim ea ipsum",
+    "price": 623.4826,
+    "productviewtype": "upcoming",
+    "image": "d.png",
+    "productdetails": {
+      "brand": "pariatur mollit cupidatat",
+      "color": {
+        "items": [
+          "green",
+          "green",
+          "green"
+        ]
+      },
+      "description": "Quis dolor fugiat duis sunt incididunt sit consectetur labore nostrud dolore et id. Nisi elit ullamco veniam officia ea proident duis irure non sit est nisi. Pariatur ea incididunt elit aliqua pariatur ullamco et sunt et exercitation sit ea ex. Ipsum nulla cillum do velit et nostrud dolore. Tempor elit id excepteur ea esse fugiat consectetur. Consequat aute dolor laboris labore eiusmod proident minim laboris id culpa minim aute.\r\nOccaecat velit nisi non magna elit labore esse labore sit. Quis nostrud ipsum ullamco consequat velit. Enim exercitation reprehenderit veniam Lorem reprehenderit adipisicing deserunt exercitation et laborum reprehenderit magna enim incididunt. Excepteur officia sit nisi excepteur.\r\nAliquip sit excepteur magna deserunt nostrud ea eu sit commodo reprehenderit laborum. Irure qui enim ipsum incididunt magna. Occaecat id cillum qui laboris consectetur fugiat officia laborum labore laborum culpa labore ullamco. Cillum voluptate enim aliqua mollit dolore in. Cillum ex do excepteur in mollit eu velit minim incididunt est incididunt fugiat.\r\n",
+      "season": {
+        "items": [
+          "Winter Collections",
+          "All Seasons",
+          "All Seasons"
+        ]
+      },
+      "size": {
+        "items": [
+          "M",
+          "L"
+        ]
+      }
+    },
+    "skucode": 126037,
+    "teaser": "Proident non exercitation ex amet est cupidatat incididunt sunt do elit adipisicing sint reprehenderit incididunt. Exercitation magna pariatur dolore esse occaecat. Excepteur dolore ut ullamco ullamco cillum laborum ad nulla dolor. Dolor non labore ut eiusmod exercitation id excepteur culpa dolor velit aliqua duis. Consequat aliquip qui aute laboris id officia voluptate do ea minim. Ut excepteur velit veniam magna commodo culpa minim velit elit incididunt nostrud eiusmod laboris voluptate.\r\n"
   }

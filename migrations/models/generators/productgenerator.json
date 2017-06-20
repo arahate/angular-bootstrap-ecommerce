@@ -1,0 +1,39 @@
+
+[
+'{{repeat(12, 7)}}',
+{
+        "_id": '{{objectId)}}',
+        "name": '{{lorem(3, "words")}}',
+        "price": '{{floating(0, 10000.00)}}',
+		"productviewtype" : '{{random("upcoming", "new", "current")}}',
+		"image" : '{{random("a.jpeg", "b.jpeg","e.jpeg","f.jpeg","g.jpeg", "h.jpeg","i.jpeg","j.jpeg","q.jpeg","r.jpeg","c.png","d.png","k.png","l.png","m.png","s.png","t.png")}}',
+        "productdetails": {
+                "brand": '{{lorem(3, "words")}}',
+                "color": {
+					"items": [
+						'{{repeat(3)}}',
+						'{{random("blue", "brown", "green")}}'
+                    ]
+                },
+                "description": '{{lorem(3, "paragraphs")}}',
+                "season": {
+					"items": [
+                      '{{repeat(3)}}',
+						'{{random("Summer Collection", "Winter Collections", "All Seasons")}}'
+                    ]
+                    
+                },
+                "size": {
+					"items": 
+					[
+						'{{repeat(2)}}',
+						'{{random("S", "L", "M","XL", "XXL")}}'
+					]
+                    
+                }
+        },
+        "skucode": '{{integer(100000, 999999)}}',
+        "teaser": '{{lorem(1, "paragraphs")}}'
+        
+}
+]

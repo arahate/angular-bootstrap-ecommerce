@@ -21,5 +21,25 @@ userrouter.route('/Users')
          });
     });
 
+    userrouter.route('/Users/:id')
+    .get(function(req,res) {
+        
+         model.FindById(req.params.id,function(err, model){
+                if(err) res.status(500).send(err);
+             res.json(model);
+         });
+         
+    });
+
+    userrouter.route('/Users/gender/:gender')
+    .get(function(req,res) {
+        //res.send(req.params);
+         model.Find(req.params,function(err, model){
+                if(err) res.status(500).send(err);
+             res.json(model);
+         });
+         
+    });
+
 module.exports = userrouter;
     
