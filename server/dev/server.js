@@ -23,13 +23,17 @@ var rootpath= path.normalize( __dirname + '/../../../');
 var userrouter = require ('./../../app/js/api/routes/userrouter');
 var productrouter = require ('./../../app/js/api/routes/productrouter');
 
+console.log(process.env.NODE_ENV);
+console.log(process.env.PORT);
 
- app.use('/api',userrouter);
- app.use('/api',productrouter);
+app.use('/api',userrouter);
+app.use('/api',productrouter);
  
-app.listen(3000);
+app.listen(process.env.PORT);
 console.log('Started listening at port 3000...');
+ 
 
+module.exports= app;
 
 
 

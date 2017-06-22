@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "grunt",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "grunt watch"
   },
   "author": "Abhijit Rahate",
   "license": "ISC",
@@ -34,10 +34,12 @@
     "grunt-contrib-qunit": "^2.0.0",
     "grunt-contrib-uglify": "^3.0.1",
     "grunt-contrib-watch": "^1.0.0",
+    "grunt-env": "^0.4.4",
     "grunt-mocha-test": "^0.13.2",
     "grunt-nodemon": "^0.4.2",
     "grunt-parallel": "^0.5.1",
     "mocha": "^3.4.2",
-    "nodemon": "^1.11.0"
+    "nodemon": "^1.11.0",
+    "supertest": "^3.0.0"
   }
 }
