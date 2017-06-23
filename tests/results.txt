@@ -1,13 +1,14 @@
-test
-3001
 Started listening at port 3000...
 
 [0m[0m
 [0m  ProductController Tests:[0m
 [0m    Post[0m
-e-commerce_testconnected
-    [32m  √[0m[90m Should not allow empty name, price and image[0m
+e-commerce_test connected
+test
+    [32m  √[0m[90m Should not allow empty name, price and image[0m[33m (39ms)[0m
+test
+    [32m  √[0m[90m Should post with all data[0m[33m (41ms)[0m
 
 
-[92m [0m[32m 1 passing[0m[90m (93ms)[0m
+[92m [0m[32m 2 passing[0m[90m (110ms)[0m
 

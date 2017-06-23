@@ -16,7 +16,7 @@ userrouter.route('/Users')
     .post(function(req,res) {
         //console.log(req.body);
          model.Save(req.body,function(err, model){
-                if(err) console.log(err); //res.status(500).send(err);
+                if(err)  //res.status(500).send(err);
              res.json(model);
          });
     });

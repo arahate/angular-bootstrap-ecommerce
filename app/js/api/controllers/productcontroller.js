@@ -1,11 +1,19 @@
 var productcontroller = function(model){
 
 var post = function(req,res) { 
-         model.Save(req.body,function(err, model){
+        
+        if(!req.body.name && !req.body.image && req.body.price<=0)
+        {
+             res.status(500).json({validationerror:'Name, Price and Image should be mandatory'});
+        }
+        else
+        {
+            model.Save(req.body,function(err, model){
                 if(err) res.status(500).send(err);
-             res.json(model);
-         });
-   
+                res.json(model);
+                
+            });
+        }
     };  
 
 var get = function(req,res) {
